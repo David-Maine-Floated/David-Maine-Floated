@@ -9,4 +9,7 @@
 
 ### I don't know why but setting up the Redux store and feeding data into React componenets is just so dang fun.
 
-
+## Want to check out my music??? Check these links: 
+<a href="[URL](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW?si=xXUBUYyfRfGz1-mZhg5WBw)">Frankie Cosmos</a>
+<br>
+<a href="https://open.spotify.com/artist/4440TTGblbIlIldFRFVktf?si=oIAeYytrTNqzrCb5YS96zg">David AM</a>
