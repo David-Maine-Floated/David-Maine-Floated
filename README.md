@@ -5,7 +5,7 @@
 ### I'm a software engineer who loves to code. In addition to code I also love music, wellness, cooking, and pets.
 
 ## My favorite tools/technologies of the moment: 
-<img src="./Screenshot%202024-02-06%20at%205.12.39 PM.png" alt="Alt Text" width="100px" height="75"><img src="./JS.png" alt="Alt Text" width="100px" height="75"><img src="./Rails.png" alt="Alt Text" width="100px" height="75"><img src="./html_css.png" alt="Alt Text" width="100px" height="75">
+<img src="./Screenshot%202024-02-06%20at%205.12.39 PM.png" alt="Alt Text" width="100px" height="75"><img src="./JS.png" alt="Alt Text" width="100px" height="75"><img src="./Rails.png" alt="Alt Text" width="100px" height="75"><img src="./html_css.png" alt="Alt Text" width="100px" height="75"><img src="./SQL.png" alt="Alt Text" width="100px" height="75">
 
 ### I don't know why but setting up the Redux store and feeding data into React componenets is just so dang fun.
 
